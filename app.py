@@ -6,7 +6,7 @@ import seaborn as sns
 # Load and prepare the dataset
 @st.cache_data
 def load_data():
-    df = pd.read_csv('/Users/jdwilson/00-09 System/01 Inbox/andy2.csv')
+    df = pd.read_csv('andy2.csv')
     df['Difference'] = df['Difference'].replace('[\$,]', '', regex=True).astype(float)
     df['Month'] = pd.to_datetime(df['Month'], format='%B', errors='coerce').dt.month
     return df

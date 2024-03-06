@@ -1,0 +1,104 @@
+Payer? (The Service Is),Service Duration,Hospital,Doctor,Sex,VAT Amount,Rental Rate,Difference,Month
+Hospital,2,Real San Jose Valle Real,Jorge Arturo Barba Martin,FEMENINO,$208.00,"$1,300.00","$1,092.00",January
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",January
+Paciente,8,DOMICILIO,Jorge Arturo Barba Martin,FEMENINO,$832.00,"$5,200.00","$4,368.00",January
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,2,Real San Jose LZC,Luis Ramirez Huerta,FEMENINO,$208.00,"$1,300.00","$1,092.00",January
+Paciente,8,DOMICILIO,Luis Ramirez Huerta,FEMENINO,$832.00,"$5,200.00","$4,368.00",January
+Hospital,10,Hospital San Javier,Dr. Alvarez Rengifo,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,10,Hospital San Javier,Dr. Alvarez Rengifo,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,2,Real San Jose Valle Real,Jorge Arturo Barba Martin,MASCULINO,$312.00,"$1,950.00","$1,638.00",January
+Paciente,8,DOMICILIO,Jorge Arturo Barba Martin,MASCULINO,$832.00,"$5,200.00","$4,368.00",January
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,10,COUNTRY 2000,Dr. Delgadillo Bucio,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,10,Jardines de Guadalupe,Luis Ramirez Huerta,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,1,Real San Jose Valle Real,Jorge Arturo Barba Martin,MASCULINO,$104.00,$650.00,$546.00,January
+Paciente,9,DOMICILIO,Jorge Arturo Barba Martin,MASCULINO,$936.00,"$5,850.00","$4,914.00",January
+Hospital,1,Real San Jose LZC,Luis Ramirez Huerta,MASCULINO,$104.00,$650.00,$546.00,January
+Paciente,9,DOMICILIO,Luis Ramirez Huerta,MASCULINO,$936.00,"$5,850.00","$4,914.00",January
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,1,Real San Jose LZC,Luis Ramirez Huerta,MASCULINO,$104.00,$650.00,$546.00,January
+Hospital,10,Country 2000,Dr. Delgadillo Bucio,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,10,Country 2000,Dr. Delgadillo Bucio,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",January
+Hospital,1,Real San Jose Valle Real,Luis Ramirez Huerta,MASCULINO,$104.00,$650.00,$546.00,February
+Paciente,9,DOMICILIO,Luis Ramirez Huerta,MASCULINO,$624.00,"$4,524.00","$3,900.00",February
+Hospital,1,Real San Jose LZC,Luis Ramirez Huerta,MASCULINO,$104.00,$650.00,$546.00,February
+Paciente,9,DOMICILIO,Luis Ramirez Huerta,MASCULINO,$936.00,"$5,850.00","$4,914.00",February
+Hospital,1,Real San Jose Valle Real,Luis Ramirez Huerta,FEMENINO,$104.00,$650.00,$546.00,February
+Paciente,9,DOMICILIO,Luis Ramirez Huerta,FEMENINO,$832.00,"$5,200.00","$4,368.00",February
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,2,Real San Jose Valle Real,Luis Ramirez Huerta,MASCULINO,$208.00,"$1,300.00","$1,092.00",February
+Paciente,8,DOMICILIO,Luis Ramirez Huerta,MASCULINO,$832.00,"$5,200.00","$4,368.00",February
+Hospital,10,Puerta de Hierro Norte,Jorge Arturo Barba Martin,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,10,Country 2000,Luis Ramirez Huerta,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,10,Hospital Arboledas,Miguel Angel Morales,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,1,Hospital Arboledas,Dr. Rafael Vazquez,FEMENINO,$104.00,$650.00,$546.00,February
+Hospital,2,Real San Jose Valle Real,Jorge Arturo Barba Martin,MASCULINO,$208.00,"$1,508.00","$1,300.00",February
+Paciente,7,DOMICILIO,Jorge Arturo Barba Martin,MASCULINO,$832.00,"$5,200.00","$4,368.00",February
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,10,,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,2,Real San Jose LZC,Jose Luis Guerrero Muñoz,MASCULINO,$208.00,"$1,508.00","$1,300.00",February
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,10,,Luis Ramirez Huerta,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,10,,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",February
+Hospital,10,Hospital San Javier,Dr. Alvarez Rengifo,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,2,Real San Jose Valle Real,Luis Ramirez Huerta,MASCULINO,$208.00,"$1,300.00","$1,092.00",March
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Real San Jose Valle Real,Luis Ramirez Huerta,FEMENINO,$0.00,$0.00,$0.00,March
+Hospital,0,Real San Jose Valle Real,Luis Ramirez Huerta,MASCULINO,$0.00,$0.00,$0.00,March
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,2,Real San Jose LZC,Luis Ramirez Huerta,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",March
+Paciente,8,DOMICILIO,Luis Ramirez Huerta,FEMENINO,$832.00,"$5,200.00","$4,368.00",March
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Hospital Arboledas,Miguel Angel Morales,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Jardines de Guadalupe,Luis Ramirez Huerta,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Hospital Arboledas,Miguel Angel Morales,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Hospital Sta Maria Chapalita,Jorge Arturo Barba Martin,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Country 2000,Jorge Arturo Barba Martin,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Hospital San Javier,Dr. Alejandro Vazquez,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Country 2000,Luis Ramirez Huerta,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,10,Jardines de Guadalupe,Luis Ramirez Huerta,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",March
+Hospital,2,Real San Jose LZC,Luis Ramirez Huerta,FEMENINO,$208.00,"$1,300.00","$1,092.00",March
+Paciente,,DOMICILIO,Oscar Mendoza Helguera,FEMENINO,,,0,April
+Hospital,2,Real San Jose Valle Real,Luis Ramirez Huerta,MASCULINO,$204.00,"$1,300.00","$1,096.00",April
+Paciente,8,DOMICILIO,Luis Ramirez Huerta,MASCULINO,$832.00,"$5,200.00","$4,368.00",April
+Hospital,10,Country 2000,Jose Luis Guerrero Muñoz,FEMENINO,,,0,April
+Hospital,10,Real San Jose Valle Real,Jorge Arturo Barba Martin,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,10,Santa Maria Chapalita,Jorge Arturo Barba Martin,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,2,Real San Jose Valle Real,Jorge Arturo Barba Martin,MASCULINO,$204.00,"$1,300.00","$1,096.00",April
+Hospital,8,DOMICILIO,Jorge Arturo Barba Martin,MASCULINO,$832.00,"$5,200.00","$4,368.00",April
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,10,Hospital San Javier,Dr. Alvarez Rengifo,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,10,Puerta de Hierro Norte,Jorge Arturo Barba Martin,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,10,Hospital Arboledas,Jose Luis Guerrero Muñoz,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,10,Puerta de Hierro Sur,Jorge Arturo Barba Martin,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,10,Santa Maria Chapalita,Luis Armando Ahumada,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,10,Jardines de Guadalupe,Luis Ramirez Huerta,MASCULINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,2,Real San Jose Valle Real,Dr. Alvarez Rengifo,MASCULINO,,,0,April
+Hospital,10,Country 2000,Dr. Delgadillo Bucio,FEMENINO,"$1,040.00","$6,500.00","$5,460.00",April
+Hospital,10,Hospital Arboledas,Miguel Angel Morales,FEMENINO,,,0,April
+Hospital,,Real San Jose LZC,Luis Ramirez Huerta,FEMENINO,,,0,April
+Hospital,10,,,,,,0,April
+Hospital,10,,,,,,0,April

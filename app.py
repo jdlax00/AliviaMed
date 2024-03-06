@@ -63,7 +63,7 @@ plt.figure(figsize=(10, 4))
 for selected_hospital in selected_hospitals:
     df_filtered = df[df['Hospital'] == selected_hospital]
     monthly_difference = df_filtered.groupby(pd.Grouper(key='Month')).agg(Monthly_Difference=('Difference', 'sum')).reset_index()
-    plt.plot(monthly_difference['Month'].values, monthly_difference['Monthly_Difference'], marker='o', label=selected_hospital)
+    plt.plot(monthly_difference['Month'].dt.strftime('%B'), monthly_difference['Monthly_Difference'], marker='o', label=selected_hospital)
 
 plt.title('Monthly Difference Trend')
 plt.xlabel('Month')

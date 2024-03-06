@@ -4,11 +4,12 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load and prepare the dataset
+# Load and prepare the dataset
 @st.cache_data
 def load_data():
     df = pd.read_csv('andy2.csv')
     df['Difference'] = df['Difference'].replace('[\$,]', '', regex=True).astype(float)
-    df['Month'] = pd.to_datetime(df['Month'], format='%B', errors='coerce').dt.month
+    df['Month'] = pd.to_datetime(df['Month'], format='%B', errors='coerce')  # Convert 'Month' to datetime
     return df
 
 df = load_data()
